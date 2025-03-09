@@ -2,7 +2,7 @@
 
 # 🚗 DriveGuard - Driver Drowsiness Detection System 🚗
 
-![Drowsiness Detection](path/to/your/banner-image.jpg) <!-- Replace 'path/to/your/banner-image.jpg' with your image file -->
+![Drowsiness Detection](DriveGuard.png) <!-- Replace 'path/to/your/banner-image.jpg' with your image file -->
 
 **_Preventing road accidents caused by driver fatigue through cutting-edge technology_**
 
